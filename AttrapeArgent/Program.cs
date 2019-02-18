@@ -1,16 +1,12 @@
 ﻿using System;
 
-namespace AttrapeArgent
+namespace CatchTheMushrooms
+
 {
 #if WINDOWS || LINUX
-    /// <summary>
-    /// The main class.
-    /// </summary>
-    public static class Program
+
+	public static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
