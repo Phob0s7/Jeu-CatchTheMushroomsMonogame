@@ -25,7 +25,6 @@ namespace CatchTheMushrooms
 		int nberOfMushrooms= 0;
 		const int MUSHROOM_RADIUS = 20;
 		float timer = 15F;
-
 		public Game1()
 		{
 			graphics = new GraphicsDeviceManager(this);
